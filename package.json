@@ -1,0 +1,7 @@
+{
+  "name": "learn_for_js",
+  "version": "1.0.0",
+  "devDependencies": {
+    "images": "^3.2.3"
+  }
+}
